@@ -6,7 +6,7 @@ Este proyecto consiste en una aplicación en lenguaje PHP, que muestra el mensaj
 
 ## Prerrequisitos
 
-Para ejecutar este proyecto fue necesario tener inatalado en Ubunto:
+Para ejecutar este proyecto fue necesario tener instalado en Ubuntu:
 -PHP
 -Apache2
 
